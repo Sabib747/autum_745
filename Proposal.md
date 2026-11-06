@@ -5,7 +5,7 @@ Campus Cheaters
 TODO 
   
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.") 
-A game where a character (college student) is running from their professor after being caught using ChatGPT 
+A game where a character (college student) is running from their professor after being caught using ChatGPT.
 TODO 
   
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed? 
@@ -13,11 +13,11 @@ A student will be working on a laptop using ChatGPT when their professor catches
 TODO 
   
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course? 
-  
+N/A
 TODO, if applicable 
   
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below. 
-Sabib Mumtahin tut48326@temple.edu, Lab TA: Lavdrim Islami 
+Sabib Mumtahin tut48326@temple.edu, Lab TA: Lavdrim Islami, and his email is:  lavdrim.islami@temple.edu, and I am Sabib Typed this info. 
 
 Jeffrey Colyer Tuq08006@temple.edu TA: (I have lab Tuesday mornings at 9 AM, I don't recognize my TA on canvas so I don't know their name or email) 
 TODO, if applicable 
